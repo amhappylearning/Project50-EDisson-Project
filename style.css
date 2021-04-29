@@ -1,0 +1,29 @@
+h1{
+    color:#6A1B9A;
+    border-style:solid;
+    border-color:#2196F3;
+    text-align:center;
+  }
+  body{
+    background-color:#F3E5F5;
+  }
+  #ON{
+    color:#D50000;
+  }
+  #OFF{
+    color:#D50000;
+  }
+  #bulb{
+    width:300px;
+  }
+  #TAE{
+    width:300px;
+  }
+  #Para{
+    text-align:center;
+    color:#E57373;
+    border-style:solid;
+    border-color:#FFAB91;
+  }
+  
+  
